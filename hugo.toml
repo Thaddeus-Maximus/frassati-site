@@ -1,3 +1,5 @@
+publishDir = "docs"
+
 baseurl = "https://frassati.blonocatholic.com" # Configure URL. if using gh-pages https://github.com/<username>/hugo-universal-theme URL: https://<username>.github.io/hugo-universal-theme/
 title = "The Frassati Society"
 theme = "hugo-universal-theme"
