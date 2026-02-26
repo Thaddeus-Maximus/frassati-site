@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on The Frassati Society</title>
-    <link>https://frassati.thadhughes.xyz/categories/</link>
+    <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on The Frassati Society</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 25 Jan 2026 21:29:20 +0200</lastBuildDate>
-    <atom:link href="https://frassati.thadhughes.xyz/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Poetry</title>
-      <link>https://frassati.thadhughes.xyz/categories/poetry/</link>
+      <link>http://localhost:1313/categories/poetry/</link>
       <pubDate>Sun, 25 Jan 2026 21:29:20 +0200</pubDate>
-      <guid>https://frassati.thadhughes.xyz/categories/poetry/</guid>
+      <guid>http://localhost:1313/categories/poetry/</guid>
       <description></description>
     </item>
     <item>
       <title>Culture</title>
-      <link>https://frassati.thadhughes.xyz/categories/culture/</link>
+      <link>http://localhost:1313/categories/culture/</link>
       <pubDate>Mon, 19 Jan 2026 21:29:20 +0200</pubDate>
-      <guid>https://frassati.thadhughes.xyz/categories/culture/</guid>
+      <guid>http://localhost:1313/categories/culture/</guid>
       <description></description>
     </item>
     <item>
       <title>Spirituality</title>
-      <link>https://frassati.thadhughes.xyz/categories/spirituality/</link>
+      <link>http://localhost:1313/categories/spirituality/</link>
       <pubDate>Tue, 29 Jul 2025 21:29:20 +0200</pubDate>
-      <guid>https://frassati.thadhughes.xyz/categories/spirituality/</guid>
+      <guid>http://localhost:1313/categories/spirituality/</guid>
       <description></description>
     </item>
     <item>
       <title>Economics</title>
-      <link>https://frassati.thadhughes.xyz/categories/economics/</link>
+      <link>http://localhost:1313/categories/economics/</link>
       <pubDate>Mon, 31 Mar 2025 21:29:20 +0200</pubDate>
-      <guid>https://frassati.thadhughes.xyz/categories/economics/</guid>
+      <guid>http://localhost:1313/categories/economics/</guid>
       <description></description>
     </item>
     <item>
       <title>Politics</title>
-      <link>https://frassati.thadhughes.xyz/categories/politics/</link>
+      <link>http://localhost:1313/categories/politics/</link>
       <pubDate>Mon, 31 Mar 2025 21:29:20 +0200</pubDate>
-      <guid>https://frassati.thadhughes.xyz/categories/politics/</guid>
+      <guid>http://localhost:1313/categories/politics/</guid>
       <description></description>
     </item>
   </channel>

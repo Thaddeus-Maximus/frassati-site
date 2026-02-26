@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Poetry on The Frassati Society</title>
-    <link>https://frassati.thadhughes.xyz/tags/poetry/</link>
+    <link>http://localhost:1313/tags/poetry/</link>
     <description>Recent content in Poetry on The Frassati Society</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 25 Jan 2026 21:29:20 +0200</lastBuildDate>
-    <atom:link href="https://frassati.thadhughes.xyz/tags/poetry/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/poetry/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Peace on Earth</title>
-      <link>https://frassati.thadhughes.xyz/blog/2026/01/25/peace-on-earth/</link>
+      <link>http://localhost:1313/blog/2026/01/25/peace-on-earth/</link>
       <pubDate>Sun, 25 Jan 2026 21:29:20 +0200</pubDate>
-      <guid>https://frassati.thadhughes.xyz/blog/2026/01/25/peace-on-earth/</guid>
+      <guid>http://localhost:1313/blog/2026/01/25/peace-on-earth/</guid>
       <description>&lt;p&gt;What ever happened to the world?&lt;/p&gt;&#xA;&lt;p&gt;It’s all take, take, take&lt;/p&gt;&#xA;&lt;p&gt;Mutter worry and groan.&lt;/p&gt;&#xA;&lt;p&gt;What ever happened to life?&lt;/p&gt;&#xA;&lt;p&gt;Where hope is more than a figment known,&lt;/p&gt;&#xA;&lt;p&gt;Where joy is real,&lt;/p&gt;&#xA;&lt;p&gt;Where hope heals.&lt;/p&gt;&#xA;&lt;p&gt;Peace on earth,&lt;/p&gt;&#xA;&lt;p&gt;And goodwill to men&lt;/p&gt;&#xA;&lt;p&gt;This is where your story begins.&lt;/p&gt;&#xA;&lt;p&gt;Wandering through the winding streets of shadowed stone,&lt;/p&gt;&#xA;&lt;p&gt;The world is fear and fight,&lt;/p&gt;&#xA;&lt;p&gt;A ceaseless march into the night.&lt;/p&gt;&#xA;&lt;p&gt;Hope despairing,&lt;/p&gt;</description>
     </item>
   </channel>

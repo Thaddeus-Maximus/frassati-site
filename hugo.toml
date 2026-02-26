@@ -48,6 +48,13 @@ pluralizelisttitles = false
     url        = "/candidate-vetting"
     weight     = 1
     parent     = "menu.projects"
+[[menu.main]]
+    name       = "Parish Event/Masstime Aggregator"
+    url        = "https://github.com/Thaddeus-Maximus/bulletin-aggregator"
+    weight     = 5
+    parent     = "menu.projects"
+
+    
 
 # EVENTS
 
@@ -99,7 +106,7 @@ pluralizelisttitles = false
 [[menu.main]]
     name       = "Blog"
     identifier = "menu.blog"
-    url        = "/blog"
+    url        = "/img/template-easy-customize.png"
     weight     = 10
 
 # Top bar social links menu
