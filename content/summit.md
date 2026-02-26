@@ -7,15 +7,15 @@ type = "page"
 
 711 N Main Street, Bloomington, IL 61701
 
-*We will meet in the parish basement.*
-
-*There is vigil mass upstairs at 4PM.*
+*We will meet in the church to pray the rosary before moving to the basement. Conference will conclude with usual vigil mass upstairs at 4PM.*
 
 ## Speakers:
-- **Dr. Benjamin Keil**, Assistant Professor at ISU
 - **Dr. Kent Lasnoski**, President of San Damiano College of the Trades
+- **Dr. Benjamin Keil**, Assistant Professor at ISU
 - **IWP Capital**
-- **You, Perhaps?** *We will have a lightning round of 5 minute talks by local shakers and movers on projects happening now in our community; [sign up to speak today!](/contact)*
+- **You, Perhaps?** *We will have a lightning round of 5 minute talks on projects happening now in our community; [sign up to speak today!](/contact)*
+
+![](/img/cas_lineup.jpg)
 
 ## Topics:
 - What is Catholic Social Teaching?
