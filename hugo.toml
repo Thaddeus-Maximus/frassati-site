@@ -106,7 +106,7 @@ pluralizelisttitles = false
 [[menu.main]]
     name       = "Blog"
     identifier = "menu.blog"
-    url        = "/img/template-easy-customize.png"
+    url        = "/blog"
     weight     = 10
 
 # Top bar social links menu
