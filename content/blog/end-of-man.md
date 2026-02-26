@@ -23,7 +23,7 @@ It is thinly veiled complacency proclaimed as heroism and virtue. Having childre
 
 Some men are called to celibacy, which St. Paul praises as the highest sacrifice,
 
-    “He who refrains from marriage will do even better.” —1 Corinthians 7:38
+> “He who refrains from marriage will do even better.” —1 Corinthians 7:38
 
 Celibacy is not a rejection of masculinity—it is its perfection in radical service of the Kingdom, a perfect imitation of Christ. To stay focused on their mission they will not marry. Those called are soldiers of Christ, freed from the binding attachments of the world, they are the most free to completely serve God. Their spiritual children surpass only having children of the flesh in eternal impact. To embrace celibacy for the Kingdom is to take the most intense fire of manhood and place it on the altar.
 
@@ -33,15 +33,15 @@ Yet marriage, too, is a path to holiness. The modern problem arises because the 
 
 In these times of disorder and confusion, the following teachings are useful for those who are in the position to raise Catholic families: Pope Leo XIII reminded us in his Encyclical Arcanum (Feb. 10, 1880):
 
-    "The husband is the chief of the family and the head of the wife. The woman...must be subject to her husband and obey him; not indeed, as a servant, but as a companion, so that her obedience shall be wanting in neither honor nor dignity. Since the husband represents Christ, and since the wife represents the Church, let there always be, both in him who commands and in her who obeys, a heaven-born love guiding both in their respective duties"
+> "The husband is the chief of the family and the head of the wife. The woman...must be subject to her husband and obey him; not indeed, as a servant, but as a companion, so that her obedience shall be wanting in neither honor nor dignity. Since the husband represents Christ, and since the wife represents the Church, let there always be, both in him who commands and in her who obeys, a heaven-born love guiding both in their respective duties"
 
 Later, in Casti Connubii (Dec. 31, 1930), Pope Pius XI proclaimed this order of the family as unchangeable and constituted by God:
 
-    "...this subjection of wife to husband in its degree and manner may vary according to the different conditions of persons, place and time.... But the structure of the family and its fundamental law, established and confirmed by God, must always and everywhere be maintained intact."
+> "...this subjection of wife to husband in its degree and manner may vary according to the different conditions of persons, place and time.... But the structure of the family and its fundamental law, established and confirmed by God, must always and everywhere be maintained intact."
 
 The woman, once the heart of the home, is now taught to suspect her own nature. While St. John Paul II wrote,
 
-    “The dignity of women is measured by the order of love, which is essentially the order of justice and charity.” —Mulieris Dignitatem
+> “The dignity of women is measured by the order of love, which is essentially the order of justice and charity.” —Mulieris Dignitatem
 
 Today, asking women for the feminine virtues of patience, obedience, quietness, and gentleness of spirit is branded as oppressive–too much to ask for in the “modern” world. Wives will openly mock or critique their husbands. She seeks to receive praise for her “biblical femininity”, yet his faults are dissected in public. The man is held responsible for everything that goes wrong. If the marriage fails, it’s his fault. If his wife lacks virtue, he must have failed. If a husband expresses concern over his wife’s bitterness or irresponsibility he is advised, “You need to love her more like Christ loves the Church.” Rarely is the wife called to introspection or repentance in equal measure. This is not headship, it is emasculation with a trad costume.
 
@@ -53,11 +53,11 @@ This dynamic turns marriage into a one-sided contract: the man bears all the bur
 
 Headship is not the imposition of some sort of hatred nor diminutive notions of women as lesser. It is to acknowledge the duty of a husband to his wife given by God. To ask women to perform outside of what is in their nature is an insult and demotion from how God has set them aside. The proper order of the natural world reflects the heavenly order as defined in 1 Corinthians 11:3,
 
-    “But I want you to understand that the head of every man is Christ, the head of a woman is her husband, and the head of Christ is God.”
+> “But I want you to understand that the head of every man is Christ, the head of a woman is her husband, and the head of Christ is God.”
 
 From here it can be seen that the definition of male headship within Christian teaching is the divine institution of husbands to be leaders, always protecting and loving their wives. Similarly the wife’s role is unified to this, which also must be upheld, stated as
 
-    “Nevertheless let each one of you in particular so love his own wife as himself, and let the wife see that she respects her husband.” —Ephesians 5:33
+> “Nevertheless let each one of you in particular so love his own wife as himself, and let the wife see that she respects her husband.” —Ephesians 5:33
 
 The problem is that men everywhere are internalizing and defining themselves in response to how women perceive them. If Catholic social and sexual morality is the norm, then the men must become men again and lead. This false masculinity has been shifted away from being about men, God, and moral law, instead it has been shifted to the idolization of the feminine over the masculine, rejecting the ordered cooperation of Creation’s design.
 
@@ -65,7 +65,7 @@ The problem is that men everywhere are internalizing and defining themselves in 
 
 This comfort and pride of life is what St Paul warned us of,
 
-    “The married man is anxious about worldly things, how to please his wife, and his interests are divided” —1 Corinthians 7:33-34
+> “The married man is anxious about worldly things, how to please his wife, and his interests are divided” —1 Corinthians 7:33-34
 
 Yet God raised marriage to the dignity of a sacrament. This tension demands vigilance, not indulgence. A man must not lose himself in comfort, but strive for greatness within marriage or celibacy alike. To reach out beyond self and into the transcendent—always aspiring and striving for greatness.
 
@@ -81,7 +81,7 @@ Men have to be competent and work hard to be dangerous in the virtuous sense. Be
 
 Meekness is not to be weak, it is to have the capability of wielding a sword yet leaving it sheathed. If you’re not a formidable force then there is no morality in your self control, because you never had any option but submission. The capacity for danger and control is what brings about the virtue.
 
-    “Meekness moderates anger according to right reason.” —Summa Theologiae II-II, Q. 157, Art. 1
+> “Meekness moderates anger according to right reason.” —Summa Theologiae II-II, Q. 157, Art. 1
 
 If you are harmless, then you are weak, and if you are weak, then you are not going to be good–because it’s very difficult and takes strength to be good.
 The Path Forward
@@ -94,10 +94,10 @@ In this context, marriage is no retreat. It is a shared mission. The mutual resp
 
 If you feel pressured to never again fight for what is right within the world, you are losing yourself and sight of true Christian love.
 
-    “The family, which is founded and given life by love, is a community of persons: of husband and wife, of parents and children, of relatives... Its first task is to live with fidelity the reality of communion in a constant effort to develop an authentic community of persons.” — Familiaris Consortio, St. John Paul II, Paragraph 18 (1981)
+> “The family, which is founded and given life by love, is a community of persons: of husband and wife, of parents and children, of relatives... Its first task is to live with fidelity the reality of communion in a constant effort to develop an authentic community of persons.” — Familiaris Consortio, St. John Paul II, Paragraph 18 (1981)
 
 # Conclusion: Become Undisputed
 
 The man’s job is not to be liked, or even to have comfort, it is to be good. It is to become undisputed in his domain—not by domination, but by excellence, to be an agent in the world for Christ. Keeping the end in sight, not falsely attributing virtue to means as their own end. Not falling victim to domesticity, as so many do, once they enter a relationship with a woman. Strengthen the Church. Protect the weak. Being the kind of man who could build a cathedral—or perform similarly virtuous feats for the glory of God and salvation of souls, acting as an agent of God in the world—a true soldier of Christ. This is the man’s challenge, and the world needs him to rise.
 
-    “Not to us, O Lord, not to us, but to Your Name give glory.” —Psalm 115:1
+> “Not to us, O Lord, not to us, but to Your Name give glory.” —Psalm 115:1

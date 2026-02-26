@@ -15,7 +15,7 @@ Arthur Penty’s Restoration of Gild Systems is such a book.
 
 We say over and over again, “if you’re not paying, you’re the product, not the customer” in regards to social media. But Penty said it better and much harsher:
 
-    the tyrrany of consumers… forces the majority of producers in self-defence… consumers generally are so wanting in loyalty to honest producers, and are so ready to believe that they can get sixpennyworth of stuff for threepence, that they deliberately place themselves in the hands of the worst type of producer.
+> the tyrrany of consumers… forces the majority of producers in self-defence… consumers generally are so wanting in loyalty to honest producers, and are so ready to believe that they can get sixpennyworth of stuff for threepence, that they deliberately place themselves in the hands of the worst type of producer.
 
 Chilling. We are so accustomed to “it’s the corporations fault” that we completely reject all our agency as consumers. We get what we pay for.
 
@@ -27,15 +27,11 @@ Penty distinguishes between two different sorts of competition: the cost-basis a
 
 Penty begins to conclude though with a focus on five points that are needed for regeneration:
 
-        The stimulation of right thinking on social questions.
-
-        The restoration of a spirit of reverence for the past.
-
-        The dissemination of the principles of taste.
-
-        The teaching of the elements of morality, especially in relation to commerce.
-
-        The insistence upon the neccessity of the personal sacrifice as a means to the salvation alike of the individual and of the State.
+> - The stimulation of right thinking on social questions.
+> - The restoration of a spirit of reverence for the past.
+> - The dissemination of the principles of taste.
+> - The teaching of the elements of morality, especially in relation to commerce.
+> - The insistence upon the neccessity of the personal sacrifice as a means to the salvation alike of the individual and of the State.
 
 The free-market thesis was that we can devise a system where imperfect men can achieve good ends. This thesis is seriously challenged today as we try to build a system where downright vicious men can achieve good ends.
 
@@ -45,8 +41,8 @@ Moral restoration is imperative, saith Penty.
 
 We need to desire good things before we can get them:
 
-    Until we can reform popular taste it is to be feared we shall have to submit to commercialism, since commercialism has its roots in the vulgarity of modern life on the one hand, and the general debasement of taste on the other. The need of the hour is not more schools of art, producing an unlimited supply of amateur artists with an exaggerated sense of their own capacities, but schools of taste which would teach them how little they know.
+> Until we can reform popular taste it is to be feared we shall have to submit to commercialism, since commercialism has its roots in the vulgarity of modern life on the one hand, and the general debasement of taste on the other. The need of the hour is not more schools of art, producing an unlimited supply of amateur artists with an exaggerated sense of their own capacities, but schools of taste which would teach them how little they know.
 
 But in the end, we need to plunge forth and act:
 
-    A man may read and think as much as he pleases, but if he be without the courage to test his conclusions by practice he can possess no vital knowledge. His thoughts will lack precision. It is only by living his thoughts that they may be focussed to the surrounding circumstances of life. As was said of old, "If thine eye be single thine whole body shall be full of light."
+> A man may read and think as much as he pleases, but if he be without the courage to test his conclusions by practice he can possess no vital knowledge. His thoughts will lack precision. It is only by living his thoughts that they may be focussed to the surrounding circumstances of life. As was said of old, "If thine eye be single thine whole body shall be full of light."

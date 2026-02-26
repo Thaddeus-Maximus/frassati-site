@@ -2195,6 +2195,14 @@ img.img-responsive {
 #blog-post #post-content {
   margin-bottom: 20px;
 }
+#content p,
+#content li,
+#blog-post #post-content p
+#blog-post #post-content li {
+    font-family: "EB Garamond", "Georgia", "Times New Roman", "Times", serif;
+    text-align: justify;
+    font-size: 18px;
+}
 #blog-post #post-content img{
   max-width: 100%;
   height: auto;

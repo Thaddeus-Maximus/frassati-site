@@ -21,15 +21,15 @@ Advocates for nontraditional music in the Mass are often chasing cultural releva
 
 The Second Vatican Council’s Sacrosanctum Concilium (SC) #14 declares:
 
-    “Mother Church earnestly desires that all the faithful should be led to that fully conscious, and active participation in liturgical celebrations which is demanded by the very nature of the liturgy. Such participation by the Christian people as ‘a chosen race, a royal priesthood, a holy nation, a redeemed people’ (1 Pet. 2:9; cf. 2:4-5), is their right and duty by reason of their baptism.”
+> “Mother Church earnestly desires that all the faithful should be led to that fully conscious, and active participation in liturgical celebrations which is demanded by the very nature of the liturgy. Such participation by the Christian people as ‘a chosen race, a royal priesthood, a holy nation, a redeemed people’ (1 Pet. 2:9; cf. 2:4-5), is their right and duty by reason of their baptism.”
 
 Proponents argue that Gregorian chant and polyphony can feel inaccessible to modern congregations, especially youth or those unfamiliar with Latin. Guitar-led hymns and contemporary songs, with familiar melodies, encourage singing, fulfilling SC #30:
 
-    “To promote active participation, the people should be encouraged to take part by means of acclamations, responses, psalmody, antiphons, and songs, as well as by actions, gestures, and bodily attitudes.”
+> “To promote active participation, the people should be encouraged to take part by means of acclamations, responses, psalmody, antiphons, and songs, as well as by actions, gestures, and bodily attitudes.”
 
 Pope St. Paul VI supports this, stating,
 
-    “The liturgical reform opens up to us a way to reeducate our people in their religion, to purify and revitalize their forms of worship and devotion.”1
+> “The liturgical reform opens up to us a way to reeducate our people in their religion, to purify and revitalize their forms of worship and devotion.”1
 
 Nontraditional music thus becomes a tool to draw people into the liturgy, making it a living expression of faith.
 
@@ -37,21 +37,21 @@ Nontraditional music thus becomes a tool to draw people into the liturgy, making
 
 Vatican II recognized the need for liturgy to resonate with diverse cultures. SC #38 & 39 states:
 
-    “Provided that the substantial unity of the Roman rite is maintained the revision of liturgical books should allow for legitimate variations and adaptations to different groups, regions and peoples especially in mission lands. Accordingly, the competent territorial ecclesiastical authority must in this matter carefully and prudently consider which elements from the traditions and genius of individual peoples might appropriately be admitted into divine worship...Within the limits set by the typical editions of the liturgical books, it shall be for the competent territorial ecclesiastical authority mentioned in Art. 22, 2, to specify adaptations, especially in the case of the administration of the sacraments, the sacramentals, processions, liturgical language, sacred music, and the arts, but according to the fundamental norms laid down in this Constitution.”
+> “Provided that the substantial unity of the Roman rite is maintained the revision of liturgical books should allow for legitimate variations and adaptations to different groups, regions and peoples especially in mission lands. Accordingly, the competent territorial ecclesiastical authority must in this matter carefully and prudently consider which elements from the traditions and genius of individual peoples might appropriately be admitted into divine worship...Within the limits set by the typical editions of the liturgical books, it shall be for the competent territorial ecclesiastical authority mentioned in Art. 22, 2, to specify adaptations, especially in the case of the administration of the sacraments, the sacramentals, processions, liturgical language, sacred music, and the arts, but according to the fundamental norms laid down in this Constitution.”
 
 Similarly, SC #119 notes:
 
-    “In certain parts of the world, especially mission lands, there are peoples who have their own musical traditions, and these play a great part in their religious and social life. For this reason due importance is to be attached to their music, and a suitable place is to be given to it.”
+> “In certain parts of the world, especially mission lands, there are peoples who have their own musical traditions, and these play a great part in their religious and social life. For this reason due importance is to be attached to their music, and a suitable place is to be given to it.”
 
 Pope Francis reinforces this in his Apostolic Exhortation Querida Amazonia:
 
-    “We can take up into the liturgy many elements proper to the experience of indigenous peoples in their contact with nature, and respect native forms of expression in song, dance, rituals, gestures and symbols.”
+> “We can take up into the liturgy many elements proper to the experience of indigenous peoples in their contact with nature, and respect native forms of expression in song, dance, rituals, gestures and symbols.”
 
 ### Pastoral Flexibility Supports Modern Instruments
 
 Musicam Sacram #63 allows:
 
-    “In permitting the use of musical instruments, the culture and traditions of individual peoples must be taken into account… Any musical instrument permitted in divine worship should be used in such a way that it meets the requirements of the liturgical celebration and is in the interests of fostering the beauty of worship and the edification of the faithful.”
+> “In permitting the use of musical instruments, the culture and traditions of individual peoples must be taken into account… Any musical instrument permitted in divine worship should be used in such a way that it meets the requirements of the liturgical celebration and is in the interests of fostering the beauty of worship and the edification of the faithful.”
 
 Pope Francis’s call for “holy music, integrated with the liturgy” and “music of the present day” suggests guitars can be used reverently in parishes lacking organs or trained choirs. Pope St. Paul VI’s acknowledgment that “some effort of adaptation will be necessary” supports tailoring music to modern needs, ensuring the liturgy speaks to diverse congregations.
 
@@ -59,9 +59,9 @@ Pope Francis’s call for “holy music, integrated with the liturgy” and “m
 
 SC #121 encourages:
 
-    “Composers, filled with the Christian spirit, should feel that their vocation is to cultivate sacred music and increase its store of treasures.
+> “Composers, filled with the Christian spirit, should feel that their vocation is to cultivate sacred music and increase its store of treasures.
 
-    Let them produce compositions which have the qualities proper to genuine sacred music, not confining themselves to works which can be sung only by large choirs, but providing also for the needs of small choirs and for the active participation of the entire assembly of the faithful.”
+> Let them produce compositions which have the qualities proper to genuine sacred music, not confining themselves to works which can be sung only by large choirs, but providing also for the needs of small choirs and for the active participation of the entire assembly of the faithful.”
 
 Proponents argue that sacred music has always evolved—organs were once novel—and guitar-based hymns or contemporary songs are legitimate developments, inspiring faith as Pope Francis’s Congolese Rite preface praises: “The true protagonist of the Congolese Rite is the People of God who sing and praise God.”
 
@@ -73,9 +73,9 @@ Current practices often misinterpret these teachings, diverging from the Church�
 
 Vatican II’s Instruction on Music in the Liturgy, Musicam Sacram #4 defines sacred music, saying that:
 
-    “(a) By sacred music is understood that which, being created for the celebration of divine worship, is endowed with a certain holy sincerity of form.
-
-    (b) The following come under the title of sacred music here: Gregorian chant, sacred polyphony in its various forms both ancient and modern, sacred music for the organ and other approved instruments, and sacred popular music, be it liturgical or simply religious.”
+> “(a) By sacred music is understood that which, being created for the celebration of divine worship, is endowed with a certain holy sincerity of form.
+> 
+> (b) The following come under the title of sacred music here: Gregorian chant, sacred polyphony in its various forms both ancient and modern, sacred music for the organ and other approved instruments, and sacred popular music, be it liturgical or simply religious.”
 
 “Whenever the popes speak about sacred (i.e., liturgical) music, the very first quality they put forward is holiness or sanctity, which they describe as a certain worthiness of or suitability for the celebration of the sacred mysteries of Christ, and freedom from worldliness or even that which is suggestive of the secular domain. This is why it is especially important that liturgical music both be and seem to be exclusively connected with and consecrated to the liturgy of the Church. If the musical style is borrowed from the outside world and brought into the temple, it profanes the liturgy and harms the spiritual progress of the people.”2
 
@@ -83,15 +83,15 @@ Vatican II’s Instruction on Music in the Liturgy, Musicam Sacram #4 defines sa
 
 Sacrosanctum Concilium #116 is unequivocal:
 
-    “The Church acknowledges Gregorian chant as specially suited to the Roman liturgy: therefore, other things being equal, it should be given pride of place in liturgical services.”
+> “The Church acknowledges Gregorian chant as specially suited to the Roman liturgy: therefore, other things being equal, it should be given pride of place in liturgical services.”
 
 While emphasis upon explicitly sacred music is also proclaimed in Sacrosanctum Concilium #46:
 
-    “Besides the commission on the sacred liturgy, every diocese, as far as possible, should have commissions for sacred music and sacred art.”
+> “Besides the commission on the sacred liturgy, every diocese, as far as possible, should have commissions for sacred music and sacred art.”
 
 Pope St. John Paul II reinforces:
 
-    “Gregorian chant continues also today to be an element of unity in the Roman Liturgy… The more closely a composition for church approaches in its movement, inspiration and savour the Gregorian melodic form, the more sacred and liturgical it becomes.”3
+> “Gregorian chant continues also today to be an element of unity in the Roman Liturgy… The more closely a composition for church approaches in its movement, inspiration and savour the Gregorian melodic form, the more sacred and liturgical it becomes.”3
 
 Yet, many parishes replace Gregorian chant entirely with guitar-led pop hymns or folk tunes, ignoring its “pride of place.” This isn’t adaptation but substitution, violating Pope St. Pius X’s Tra Le Sollecitudini, where he calls Gregorian chant “the supreme model of all sacred music.”
 
@@ -109,21 +109,21 @@ While these passages emphasize “fully conscious and active participation” th
 
 The Council of Trent (Session XXII, 1562) bans:
 
-    “All those kinds of music, in which, whether by the organ, or in the singing, there is mixed up any thing lascivious or impure.”
+> “All those kinds of music, in which, whether by the organ, or in the singing, there is mixed up any thing lascivious or impure.”
 
 Pope Pius XII’s Musicae Sacrae #8 says that::
 
-    “Sacred chant was used and held in honor from the very beginning in the Church.”
+> “Sacred chant was used and held in honor from the very beginning in the Church.”
 
 Yet, much nontraditional music draws from secular genres—rock, folk, or pop—introducing an “alien texture” that distracts from prayer. Pope St. Paul VI warned:
 
-    “If music—instrumental and vocal—does not possess at the same time the sense of prayer, dignity, and beauty, entry into the sphere of the sacred and the religious is precluded to it.”6
+> “If music—instrumental and vocal—does not possess at the same time the sense of prayer, dignity, and beauty, entry into the sphere of the sacred and the religious is precluded to it.”6
 
 Guitars, often tied to secular performance, rarely emulate the otherworldly, modal, and contemplative quality of chant, undermining the liturgy’s sacred purpose.
 
 Turning to the steelman’s reliance on Musicam Sacram #63 and #11 for pastoral flexibility: These are misapplied when used to endorse guitars or modern instruments without qualification. #63 explicitly requires that instruments “meet the requirements of the liturgical celebration” and foster “beauty of worship,” while prohibiting those associated solely with secular music—a category that includes many guitar styles used today, which mimic pop or folk styles rather than sacred music. Sacrosanctum Concilium #120 states,
 
-    “The pipe organ is to be held in high esteem, for it is the traditional musical instrument which adds a wonderful splendor to the Church’s ceremonies and powerfully lifts up man’s mind to God and to higher things.”
+> “The pipe organ is to be held in high esteem, for it is the traditional musical instrument which adds a wonderful splendor to the Church’s ceremonies and powerfully lifts up man’s mind to God and to higher things.”
 
 Calls to consider age, culture, and aptitude for the spiritual good are not blank checks for contemporary songs. Music must align with the overall emphasis on music that glorifies God, not entertains. Pope Francis’s vague reference to “music of the present day” is often cherry-picked, ignoring his broader insistence on music that is “holy” and “integrated with the liturgy,” as well as his warnings against “worldly” influences in worship. Pope St. Paul VI’s note on “adaptation” is likewise stretched; he meant gradual education toward sacred forms, not replacement with non-sacred ones. This is seen the publication Sacred Music Volume 101 from 1974:
 
@@ -137,7 +137,7 @@ Along with this the Sacred Congregation for Divine Worship released the letter V
 
 Proponents cite SC #119 and Francis’s Querida Amazonia for inculturation, but these apply primarily to indigenous contexts, not universal adoption of secular styles. Francis’s praise for the Congolese Rite’s “People of God who sing and praise” is specific to culturally rooted expressions, not a carte blanche for Western pop influences. Musicam Sacram #63 prohibits instruments “suitable for secular music only,” a clause often ignored when guitars mimic concert-like performances. There is a caveat in SC #120 for musical style to not be incompatible with the liturgy.
 
-    “This may be done, however, only on condition that the instruments are suitable, or can be made suitable, for sacred use, accord with the dignity of the temple, and truly contribute to the edification of the faithful.”
+> “This may be done, however, only on condition that the instruments are suitable, or can be made suitable, for sacred use, accord with the dignity of the temple, and truly contribute to the edification of the faithful.”
 
 Pope Francis in Querida Amazonia speaks to “indigenous peoples” and “native forms,” not importing rock or folk elements into established Roman Rite parishes; misapplying this leads to a faux inculturation that erodes the rite’s unity, as SC #38 demands “substantial unity” be maintained.
 
@@ -152,17 +152,17 @@ Pastoral Flexibility Stretched Beyond Intent
 
 While Musicam Sacram #9 calls for music suited to the spiritual good of the faithful,
 
-    “In selecting the kind of sacred music to be used, whether it be for the choir or for the people, the capacities of those who are to sing the music must be taken into account. No kind of sacred music is prohibited from liturgical actions by the Church as long as it corresponds to the spirit of the liturgical celebration itself and the nature of its individual parts,[7] and does not hinder the active participation of the people.”
+> “In selecting the kind of sacred music to be used, whether it be for the choir or for the people, the capacities of those who are to sing the music must be taken into account. No kind of sacred music is prohibited from liturgical actions by the Church as long as it corresponds to the spirit of the liturgical celebration itself and the nature of its individual parts,[7] and does not hinder the active participation of the people.”
 
 This aligns with Pope St. Pius X’s rule: “The more out of harmony it is with [Gregorian chant], the less worthy it is of the temple.” Many modern compositions lack the “movement, inspiration and savour” of chant, as Pope St. John Paul II demanded, instead fostering a performative atmosphere over communal worship. Pope Pius XII’s mandate in Musicae Sacrae is clear:
 
-    “It is the duty of all… to preserve this precious treasure of Gregorian chant diligently and to impart it generously to the Christian people.”
+> “It is the duty of all… to preserve this precious treasure of Gregorian chant diligently and to impart it generously to the Christian people.”
 
 Current practices, favoring one-sided concessions to contemporary tastes, neglect this duty. All while dangerously attempting to establish a hermeneutic of discontinuity which Pope Benedict XVI warned of:
 
-    “On the one hand, there is an interpretation that I would call “a hermeneutic of discontinuity and rupture”; it has frequently availed itself of the sympathies of the mass media, and also one trend of modern theology. On the other, there is the “hermeneutic of reform”, of renewal in the continuity of the one subject-Church which the Lord has given to us. She is a subject which increases in time and develops, yet always remaining the same, the one subject of the journeying People of God.
-
-    The hermeneutic of discontinuity risks ending in a split between the pre-conciliar Church and the post-conciliar Church. It asserts that the texts of the Council as such do not yet express the true spirit of the Council. It claims that they are the result of compromises in which, to reach unanimity, it was found necessary to keep and reconfirm many old things that are now pointless. However, the true spirit of the Council is not to be found in these compromises but instead in the impulses toward the new that are contained in the texts.”12
+> “On the one hand, there is an interpretation that I would call “a hermeneutic of discontinuity and rupture”; it has frequently availed itself of the sympathies of the mass media, and also one trend of modern theology. On the other, there is the “hermeneutic of reform”, of renewal in the continuity of the one subject-Church which the Lord has given to us. She is a subject which increases in time and develops, yet always remaining the same, the one subject of the journeying People of God.
+> 
+> The hermeneutic of discontinuity risks ending in a split between the pre-conciliar Church and the post-conciliar Church. It asserts that the texts of the Council as such do not yet express the true spirit of the Council. It claims that they are the result of compromises in which, to reach unanimity, it was found necessary to keep and reconfirm many old things that are now pointless. However, the true spirit of the Council is not to be found in these compromises but instead in the impulses toward the new that are contained in the texts.”12
 
 Addressing SC #121 on new compositions: This is misapplied to justify guitar-based hymns as “legitimate developments.” The quote stresses that new works must be truly worthy of the liturgy and produced with genuine liturgical training, implying alignment with traditional forms like chant, not secular evolutions. Organs were integrated because they enhanced sacredness, unlike many contemporary songs that prioritize emotional appeal over theological depth. Pope Francis’s Congolese Rite comment is context-specific to an inculturated rite, not a general endorsement of non-sacred music; it highlights the “People of God” praising in culturally authentic ways that remain sacred, not performative.
 

@@ -59,15 +59,14 @@ Because of their loyalty to the Church, they are welcome helpers of the hierarch
 
 Bis Saeculari had the effect of reinvigorating the movement, eventually leading to formation of national and international federations.
 
-# Quotations
-
-    “Any kind of apostolate belongs to the goals of sodalities, especially social obligations, the spreading of the kingdom of Christ, and the defense of the rights of the Church.
-
-    The “perfect Catholic” formed by the Sodality, corresponds to the needs of our days no less than in previous times. More than ever before, we need men formed in the principles of Christian life.
-
-    Sodalists should only be accepted, if they are in no way content with an average way of living. They should desire to climb the steep cliffs in their hearts, according to the rules, ascetic guidelines and exercises.
-
-    It is the task of the sodality to train its sodalists so they may become a model of Christian and apostolic life to their fellow men.”— Pope Pius XII 2
+> “Any kind of apostolate belongs to the goals of sodalities, especially social obligations, the spreading of the kingdom of Christ, and the defense of the rights of the Church.
+>
+> The “perfect Catholic” formed by the Sodality, corresponds to the needs of our days no less than in previous times. More than ever before, we need men formed in the principles of Christian life.
+>
+> Sodalists should only be accepted, if they are in no way content with an average way of living. They should desire to climb the steep cliffs in their hearts, according to the rules, ascetic guidelines and exercises.
+>
+> It is the task of the sodality to train its sodalists so they may become a model of Christian and apostolic life to their fellow men.
+> — Pope Pius XII 2
 
 # Conclusion
 
