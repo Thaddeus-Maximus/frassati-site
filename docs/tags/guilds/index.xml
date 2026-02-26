@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Guilds on The Frassati Society</title>
-    <link>http://localhost:1313/tags/guilds/</link>
+    <link>http://frassatisociety.org/tags/guilds/</link>
     <description>Recent content in Guilds on The Frassati Society</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 20 Feb 2025 21:29:20 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/guilds/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://frassatisociety.org/tags/guilds/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Arthur Penty and the Guild System</title>
-      <link>http://localhost:1313/blog/2025/02/20/penty-guilds/</link>
+      <link>http://frassatisociety.org/blog/2025/02/20/penty-guilds/</link>
       <pubDate>Thu, 20 Feb 2025 21:29:20 +0200</pubDate>
-      <guid>http://localhost:1313/blog/2025/02/20/penty-guilds/</guid>
+      <guid>http://frassatisociety.org/blog/2025/02/20/penty-guilds/</guid>
       <description>&lt;h1 id=&#34;circling-an-idea&#34;&gt;Circling an Idea&lt;/h1&gt;&#xA;&lt;p&gt;There have been several books that I’ve encountered in my life that really were moments not of revelation, but of cementation: all the random jostling thoughts in my head coalescing in another’s writings. Or perhaps, “permission to think” a certain way.&lt;/p&gt;&#xA;&lt;p&gt;Arthur Penty’s Restoration of Gild Systems is such a book.&lt;/p&gt;&#xA;&lt;p&gt;We say over and over again, “if you’re not paying, you’re the product, not the customer” in regards to social media. But Penty said it better and much harsher:&lt;/p&gt;</description>
     </item>
   </channel>
