@@ -3,9 +3,17 @@ title = "Sodality of Mary, Queen of Heaven"
 type = "page"
 +++
 
-[In an effort to build a more long-lasting, fruitful young adult community, we are seeking to revive the practice of sodalities.](/blog/2026/01/22/hello-fellow-kids/)
+### What is a Sodality?
 
-Our rule:
+A confraternity or pious association. The term was used already in early Christian times for voluntary groups of the faithful who sought to work together with like-minded people for the strengthening of their own religious commitment and advancing the Kingdom of Christ to others.
+
+### Why a Sodality?
+
+To grow in holiness, love, and virtue together.
+
+[You can read more in this blog post.](/blog/2026/01/22/hello-fellow-kids/)
+
+### What is the Rule?
 
 - A firm commitment to Christian perfection.
 - Dedication to the Blessed Virgin Mary.
@@ -17,4 +25,6 @@ Our rule:
 - Confession with a fixed Confessor monthly.
 - Annual retreat.
 
-Are you a young man who wants to [join us](/contact)?
+### Can I Join?
+
+Maybe! [Please contact us!](/contact)

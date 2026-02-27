@@ -108,6 +108,11 @@ pluralizelisttitles = false
     identifier = "menu.blog"
     url        = "/blog"
     weight     = 10
+[[menu.main]]
+    name       = "About"
+    identifier = "menu.about"
+    url        = "/about"
+    weight     = 8
 
 # Top bar social links menu
 
