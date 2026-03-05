@@ -1,5 +1,10 @@
 publishDir = "docs"
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 baseurl = "http://frassatisociety.org" # Configure URL. if using gh-pages https://github.com/<username>/hugo-universal-theme URL: https://<username>.github.io/hugo-universal-theme/
 title = "The Frassati Society"
 theme = "hugo-universal-theme"

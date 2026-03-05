@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on The Frassati Society</title>
-    <link>http://frassatisociety.org/authors/</link>
-    <description>Recent content in Authors on The Frassati Society</description>
+    <title>Authors on </title>
+    <link>/authors/</link>
+    <description>Recent content in Authors on </description>
     <generator>Hugo</generator>
-    <language>en-us</language>
+    <language>en</language>
     <lastBuildDate>Sun, 25 Jan 2026 21:29:20 +0200</lastBuildDate>
-    <atom:link href="http://frassatisociety.org/authors/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>B. Long</title>
-      <link>http://frassatisociety.org/authors/b.-long/</link>
+      <link>/authors/b.-long/</link>
       <pubDate>Sun, 25 Jan 2026 21:29:20 +0200</pubDate>
-      <guid>http://frassatisociety.org/authors/b.-long/</guid>
+      <guid>/authors/b.-long/</guid>
       <description></description>
     </item>
     <item>
       <title>T.J. Hughes</title>
-      <link>http://frassatisociety.org/authors/t.j.-hughes/</link>
+      <link>/authors/t.j.-hughes/</link>
       <pubDate>Sun, 11 Jan 2026 21:29:20 +0200</pubDate>
-      <guid>http://frassatisociety.org/authors/t.j.-hughes/</guid>
+      <guid>/authors/t.j.-hughes/</guid>
       <description></description>
     </item>
   </channel>

@@ -25,6 +25,8 @@ To grow in holiness, love, and virtue together.
 - Confession with a fixed Confessor monthly.
 - Annual retreat.
 
-### Can I Join?
+### Can I Become a Card-Carrying Member?
 
-Maybe! [Please contact us!](/contact)
+Maybe - [Please contact us!](/contact)
+
+![](/img/sodality-card.jpg)
