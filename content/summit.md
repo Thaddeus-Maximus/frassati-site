@@ -18,6 +18,8 @@ type = "page"
 
 ![](/img/cas_lineup.png)
 
+#### [(Printable Flyer)](/CAS2026-FLYER.pdf)
+
 ## Topics:
 - What is Catholic Social Teaching?
 - How can we build economic structures that foster the common good?
