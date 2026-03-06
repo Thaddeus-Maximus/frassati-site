@@ -1,81 +1,81 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on </title>
-    <link>/tags/</link>
-    <description>Recent content in Tags on </description>
+    <title>Tags on The Frassati Society</title>
+    <link>http://frassatisociety.org/tags/</link>
+    <description>Recent content in Tags on The Frassati Society</description>
     <generator>Hugo</generator>
-    <language>en</language>
+    <language>en-us</language>
     <lastBuildDate>Sun, 25 Jan 2026 21:29:20 +0200</lastBuildDate>
-    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://frassatisociety.org/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Poetry</title>
-      <link>/tags/poetry/</link>
+      <link>http://frassatisociety.org/tags/poetry/</link>
       <pubDate>Sun, 25 Jan 2026 21:29:20 +0200</pubDate>
-      <guid>/tags/poetry/</guid>
+      <guid>http://frassatisociety.org/tags/poetry/</guid>
       <description></description>
     </item>
     <item>
       <title>Youth</title>
-      <link>/tags/youth/</link>
+      <link>http://frassatisociety.org/tags/youth/</link>
       <pubDate>Thu, 22 Jan 2026 21:29:20 +0200</pubDate>
-      <guid>/tags/youth/</guid>
+      <guid>http://frassatisociety.org/tags/youth/</guid>
       <description></description>
     </item>
     <item>
       <title>Culture</title>
-      <link>/tags/culture/</link>
+      <link>http://frassatisociety.org/tags/culture/</link>
       <pubDate>Mon, 19 Jan 2026 21:29:20 +0200</pubDate>
-      <guid>/tags/culture/</guid>
+      <guid>http://frassatisociety.org/tags/culture/</guid>
       <description></description>
     </item>
     <item>
       <title>Music</title>
-      <link>/tags/music/</link>
+      <link>http://frassatisociety.org/tags/music/</link>
       <pubDate>Mon, 19 Jan 2026 21:29:20 +0200</pubDate>
-      <guid>/tags/music/</guid>
+      <guid>http://frassatisociety.org/tags/music/</guid>
       <description></description>
     </item>
     <item>
       <title>Technology</title>
-      <link>/tags/technology/</link>
+      <link>http://frassatisociety.org/tags/technology/</link>
       <pubDate>Sun, 11 Jan 2026 21:29:20 +0200</pubDate>
-      <guid>/tags/technology/</guid>
+      <guid>http://frassatisociety.org/tags/technology/</guid>
       <description></description>
     </item>
     <item>
       <title>Masculinity</title>
-      <link>/tags/masculinity/</link>
+      <link>http://frassatisociety.org/tags/masculinity/</link>
       <pubDate>Tue, 29 Jul 2025 21:29:20 +0200</pubDate>
-      <guid>/tags/masculinity/</guid>
+      <guid>http://frassatisociety.org/tags/masculinity/</guid>
       <description></description>
     </item>
     <item>
       <title>Spirituality</title>
-      <link>/tags/spirituality/</link>
+      <link>http://frassatisociety.org/tags/spirituality/</link>
       <pubDate>Tue, 29 Jul 2025 21:29:20 +0200</pubDate>
-      <guid>/tags/spirituality/</guid>
+      <guid>http://frassatisociety.org/tags/spirituality/</guid>
       <description></description>
     </item>
     <item>
       <title>Agriculture</title>
-      <link>/tags/agriculture/</link>
+      <link>http://frassatisociety.org/tags/agriculture/</link>
       <pubDate>Mon, 31 Mar 2025 21:29:20 +0200</pubDate>
-      <guid>/tags/agriculture/</guid>
+      <guid>http://frassatisociety.org/tags/agriculture/</guid>
       <description></description>
     </item>
     <item>
       <title>Economics</title>
-      <link>/tags/economics/</link>
+      <link>http://frassatisociety.org/tags/economics/</link>
       <pubDate>Mon, 31 Mar 2025 21:29:20 +0200</pubDate>
-      <guid>/tags/economics/</guid>
+      <guid>http://frassatisociety.org/tags/economics/</guid>
       <description></description>
     </item>
     <item>
       <title>Guilds</title>
-      <link>/tags/guilds/</link>
+      <link>http://frassatisociety.org/tags/guilds/</link>
       <pubDate>Thu, 20 Feb 2025 21:29:20 +0200</pubDate>
-      <guid>/tags/guilds/</guid>
+      <guid>http://frassatisociety.org/tags/guilds/</guid>
       <description></description>
     </item>
   </channel>
