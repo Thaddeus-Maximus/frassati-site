@@ -23,39 +23,17 @@ The Frassati Society recognizes that authentic renewal cannot be built on the fo
 ## Reading List
 1. *Action: A Manual for the Reconstruction of Christendom*, Jean Ousset
 
-2. *Integralism*, Thomas Crean, O.P. and Alan Finister
+2. *A Manual of Catholic Action*, Civardi
 
-3. The Lay Apostolate: *Apostolicam Actuositatem*, Vatican II (1965)
-    
-4. Modern Errors: *Quanta Cura & Syllabus Errorum*, Blessed Pius IX (1864)
-    
-5. The Beginning of Catholic Social Teaching: *Rerum Novarum*, Leo XIII (1891)
-    
-6. The Sequel to *Rerum Novarum:* *Quadragesimo Anno*, Pius XI (1931)
-    
-7. Hope as the Foundation of Catholic Social Teaching: *Spe Salvi*, Benedict XVI (2007)
-    
-8. Church and State: *Immortale Dei*, Leo XIII (1885)
-    
-9. What is Freedom?: *Libertas*, Leo XIII (1888) 
-    
-10. Religious Liberty: *Dignitatis Humanae*, Vatican II (1965)
-    
-11. The Church in America: *Longinqua Oceani & Testem Benevolentiae*, Leo XIII (1895 and 1899) 
-    
-12. The Kingship of Christ: *Quas Primas*, Pius XI (1925)
-    
-13. Peace and Human Dignity: *Pacem in Terris*, St. John XXIII (1963)
-    
-14. Human Dignity and Modern Challenges: *Gaudium et Spes*, Vatican II (1965)
-    
-15. Human Progress: *Populorum Progressio*, St. Paul VI (1967)
-    
+3. *Integralism*, Thomas Crean, O.P. and Alan Finister
 
-Usury: *Vix Pernevit*, Benedict XIV (1745)**
+4. *A Summary of Catholic Social Teaching*, Spitzer
 
+<br/>
+
+**Footnotes**
 [^1]: Catechism of the Catholic Church (CCC) 1888
-[2]: Pope Benedict XVI, Spe Salvi 35
+[^2]: Pope Benedict XVI, Spe Salvi 35
 [^3]: Psalm 145 (146), 2-3
 [^4]: Apostolicam Actuositatem 5.
 [^5]: CCC 1896
