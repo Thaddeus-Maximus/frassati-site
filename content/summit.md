@@ -4,7 +4,7 @@ type = "page"
 +++
 
 # April 25, 8AM-3:30PM @ Holy Trinity
-## [RSVP by April 15th, please!](https://forms.gle/7qzAb5BPKqRmwP7G6)
+## [Click here to RSVP by April 15th!](https://forms.gle/7qzAb5BPKqRmwP7G6)
 
 **711 N Main Street, Bloomington, IL 61701**
 
@@ -28,4 +28,4 @@ type = "page"
 ## Food:
 No conference is complete without food. We'll have soup and sandwiches, served family-style.
 
-## [RSVP by April 15th, please!](https://forms.gle/7qzAb5BPKqRmwP7G6)
+## [Click here to RSVP by April 15th!](https://forms.gle/7qzAb5BPKqRmwP7G6)
