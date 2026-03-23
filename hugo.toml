@@ -81,7 +81,7 @@ pluralizelisttitles = false
     post       = 2
 
 [[menu.main]]
-    name       = "Join The Society"
+    name       = "Join the Society"
     url        = "/contact"
     weight     = 5
     parent     = "menu.community"

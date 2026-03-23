@@ -11,8 +11,9 @@ type = "page"
 *We will meet in the church to pray the rosary before moving to the basement. Conference will conclude with usual vigil mass upstairs at 4PM.*
 
 ## Speakers:
-- **Dr. Kent Lasnoski**, President, San Damiano College of the Trades
+- **Fr. Robin Kwan, CSJ**
 - **Dr. Benjamin Keil**, Assistant Professor of Philosophy, ISU
+- **Daniel Catone**, Arimathea Investment
 - **You, Perhaps?** *We will have a lightning round of 5 minute talks on projects happening now in our community; [sign up to speak today!](/contact)*
 - **And others TBD**
 
