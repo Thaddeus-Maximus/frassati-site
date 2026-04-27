@@ -2,16 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://frassatisociety.org/tags/action/</loc>
+    <lastmod>2026-04-25T21:29:20+02:00</lastmod>
+  </url><url>
+    <loc>http://frassatisociety.org/blog/</loc>
+    <lastmod>2026-04-25T21:29:20+02:00</lastmod>
+  </url><url>
+    <loc>http://frassatisociety.org/categories/</loc>
+    <lastmod>2026-04-25T21:29:20+02:00</lastmod>
+  </url><url>
+    <loc>http://frassatisociety.org/blog/2026/04/25/summit2026/</loc>
+    <lastmod>2026-04-25T21:29:20+02:00</lastmod>
+  </url><url>
+    <loc>http://frassatisociety.org/categories/economics/</loc>
+    <lastmod>2026-04-25T21:29:20+02:00</lastmod>
+  </url><url>
+    <loc>http://frassatisociety.org/tags/economics/</loc>
+    <lastmod>2026-04-25T21:29:20+02:00</lastmod>
+  </url><url>
+    <loc>http://frassatisociety.org/categories/politics/</loc>
+    <lastmod>2026-04-25T21:29:20+02:00</lastmod>
+  </url><url>
+    <loc>http://frassatisociety.org/tags/politics/</loc>
+    <lastmod>2026-04-25T21:29:20+02:00</lastmod>
+  </url><url>
+    <loc>http://frassatisociety.org/tags/</loc>
+    <lastmod>2026-04-25T21:29:20+02:00</lastmod>
+  </url><url>
+    <loc>http://frassatisociety.org/</loc>
+    <lastmod>2026-04-25T21:29:20+02:00</lastmod>
+  </url><url>
     <loc>http://frassatisociety.org/authors/</loc>
     <lastmod>2026-01-25T21:29:20+02:00</lastmod>
   </url><url>
     <loc>http://frassatisociety.org/authors/b.-long/</loc>
-    <lastmod>2026-01-25T21:29:20+02:00</lastmod>
-  </url><url>
-    <loc>http://frassatisociety.org/blog/</loc>
-    <lastmod>2026-01-25T21:29:20+02:00</lastmod>
-  </url><url>
-    <loc>http://frassatisociety.org/categories/</loc>
     <lastmod>2026-01-25T21:29:20+02:00</lastmod>
   </url><url>
     <loc>http://frassatisociety.org/blog/2026/01/25/peace-on-earth/</loc>
@@ -21,12 +45,6 @@
     <lastmod>2026-01-25T21:29:20+02:00</lastmod>
   </url><url>
     <loc>http://frassatisociety.org/tags/poetry/</loc>
-    <lastmod>2026-01-25T21:29:20+02:00</lastmod>
-  </url><url>
-    <loc>http://frassatisociety.org/tags/</loc>
-    <lastmod>2026-01-25T21:29:20+02:00</lastmod>
-  </url><url>
-    <loc>http://frassatisociety.org/</loc>
     <lastmod>2026-01-25T21:29:20+02:00</lastmod>
   </url><url>
     <loc>http://frassatisociety.org/blog/2026/01/22/hello-fellow-kids/</loc>
@@ -77,15 +95,6 @@
     <loc>http://frassatisociety.org/tags/agriculture/</loc>
     <lastmod>2025-03-31T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>http://frassatisociety.org/categories/economics/</loc>
-    <lastmod>2025-03-31T21:29:20+02:00</lastmod>
-  </url><url>
-    <loc>http://frassatisociety.org/tags/economics/</loc>
-    <lastmod>2025-03-31T21:29:20+02:00</lastmod>
-  </url><url>
-    <loc>http://frassatisociety.org/categories/politics/</loc>
-    <lastmod>2025-03-31T21:29:20+02:00</lastmod>
-  </url><url>
     <loc>http://frassatisociety.org/blog/2025/02/20/penty-guilds/</loc>
     <lastmod>2025-02-20T21:29:20+02:00</lastmod>
   </url><url>
@@ -101,8 +110,6 @@
     <loc>http://frassatisociety.org/candidate-vetting/</loc>
   </url><url>
     <loc>http://frassatisociety.org/summit/</loc>
-  </url><url>
-    <loc>http://frassatisociety.org/summit2026/</loc>
   </url><url>
     <loc>http://frassatisociety.org/cbb/</loc>
   </url><url>
